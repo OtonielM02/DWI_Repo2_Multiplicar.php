@@ -7,4 +7,5 @@ function multiplicar($a, $b){
   $b = 7;
 
   echo "Resultado: $a * $b = " . multiplicar($a, $b);
+  echo "Segunda version multiplicar.php";
 ?>
